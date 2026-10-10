@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 53,
-  "latest_version_name": "5.3",
-  "force_update": true,
-  "title": "Update available",
-  "message": "A new version of Nexa is ready with the latest improvements and fixes. Please update to continue enjoying the best experience.",
-  "update_url": "https://www.mediafire.com/file/nnxvo7l8jaeaqce/Nexa-v5.4.apk/file"
+    "latest_version_code": 67,
+    "latest_version_name": "6.5.2",
+    "force_update": false,
+    "title": "Update available",
+    "message": "Nexa 6.5.2 is ready with bug fixes and improvements (update dialog, QR pairing, app stability). Please update to continue enjoying the best experience.",
+    "update_url": "https://raw.githubusercontent.com/privateete/nexa-update/main/releases/Nexa-6.5.2.apk"
 }
