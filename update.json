@@ -1,8 +1,8 @@
 {
-    "latest_version_code": 67,
-    "latest_version_name": "6.5.2",
+    "latest_version_code": 68,
+    "latest_version_name": "6.5.3",
     "force_update": false,
     "title": "Update available",
-    "message": "Nexa 6.5.2 is ready with bug fixes and improvements (update dialog, QR pairing, app stability). Please update to continue enjoying the best experience.",
-    "update_url": "https://raw.githubusercontent.com/privateete/nexa-update/main/releases/Nexa-6.5.2.apk"
+    "message": "Nexa 6.5.3 is ready: forced updates are now fully locked (the app cannot be used on the old version until you update). Please update to continue.",
+    "update_url": "https://raw.githubusercontent.com/privateete/nexa-update/main/releases/Nexa-6.5.3.apk"
 }
