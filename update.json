@@ -1,8 +1,8 @@
 {
-    "latest_version_code": 67,
-    "latest_version_name": "6.5.2",
+    "latest_version_code": 68,
+    "latest_version_name": "6.5.3-TEST",
     "force_update": false,
-    "title": "Update available",
-    "message": "Nexa 6.5.2 is ready with bug fixes and improvements (update dialog, QR pairing, app stability). Please update to continue enjoying the best experience.",
+    "title": "Update available (TEST)",
+    "message": "TEST: ye sirf dialog check karne ke liye hai. Asal version 6.5.2 hi latest hai.",
     "update_url": "https://raw.githubusercontent.com/privateete/nexa-update/main/releases/Nexa-6.5.2.apk"
 }
